@@ -1,0 +1,6 @@
+Links
+Full script:
+https://gallery.technet.microsoft.com/Get-Office365-usage-f955ade4
+
+Blog for custom analytics:
+https://blogs.technet.microsoft.com/dawiese/2017/04/15/get-office365-usage-reports-from-the-microsoft-graph-using-windows-powershell/
